@@ -1,0 +1,18 @@
+body {
+    background-color: teal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .editor {
+        border: 1px solid darkgoldenrod;
+
+        textarea {
+            width: 400px;
+            height: 400px;
+        }
+
+    }
+
+    
+}

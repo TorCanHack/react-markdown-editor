@@ -1,1 +1,13 @@
-/*# sourceMappingURL=App.css.map */
+body {
+  background-color: teal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body .editor {
+  border: 1px solid darkgoldenrod;
+}
+body .editor textarea {
+  width: 400px;
+  height: 400px;
+}/*# sourceMappingURL=App.css.map */
